@@ -1,124 +1,49 @@
-<!DOCTYPE html>
-<html>
+     <?php include "header.php"?>
 
-<head>
-    <title>Violência Doméstica</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-
-
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
-    <style>
-        .bg-dark {
-            background-color: #bf2156!important;
-        }
-        
-        .navbar-dark .navbar-nav .nav-link {
-            color:  #f8d7e2;
-        }
-        
-        .navbar {
-            padding: 0.5rem;
-        }
-        
-        body {
-            font-size: 1.1rem;
-            background-color: #dedbdc;
-        }
-        
-        .navbar-expand-sm .navbar-nav .nav-link {
-            padding-right: 2rem;
-            padding-left: 4rem;
-        }
-
-         /* Make the image fully responsive */
-        
-         .carousel-inner img {
-            width: 100%;
-            height: 100%;
-        }
-        .carousel-control-next,
-        .carousel-control-prev {
-            width: 10%;
-        }
-        .carousel-indicators li {
-            background-color: #fa0d87;
-        }
-        span.carousel-control-next-icon {
-            color: #fa0d87;
-        }
-
-        .container {
-            width: 70vw;
-            height: 170vh;
-            flex-direction: row;
-            justify-content: center;
-            margin-left: 190px;
-            margin-right: 600px;
-            background-color: #a49c9f;
-        }
-        h3,h1{
-            color: black;
-        }
-        p{
-            color: black;
-        }
-        img {
-           border-radius: 8px;
-           border: 1px solid #bb154d;
-            }
-        img:hover {
-           box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-                  }
-    </style>
-
-
-</head>
-
-<body>
+    <!--Menu-->
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <!-- Logo -->
-        <a class="navbar-brand" href="index.php">
-        <img src="imagens/logo.png" alt="logo" style="width:40px;">
-        </a>
+        <a class="navbar" href="index.php">
+        <img src="imagens/logo5.png" alt="logo">
+        </a> 
 
         <!-- Links -->
         <ul class="navbar-nav">
+        <li class="nav-item">
+                <a class="nav-link" href="#">Nome do Site</a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="tipos.php">Tipos de Violência</a>
             </li>
             <!-- Dropdown -->
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-              SOS
+                SOS
             </a>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="chat.php">Chat</a>
+                    <a class="dropdown-item" href="chat.php"> Chat</a>
                     <a class="dropdown-item" href="denuncie.php">Denuncie</a>
-                    <a class="dropdown-item" href="ongs.php">ONGs</a>
+                    <a class="dropdown-item" href="ongs.php"> ONGs</a>
                 </div>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="relatos.php">Relatos</a>
+                <a class="nav-link" href="relatos.php"> Relatos</a>
             </li>
 
             <!-- Dropdown -->
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-              Informações
+                 Informações
             </a>
                 <div class="dropdown-menu">
-                    <a class="dropdown-item" href="lei.php">Lei Maria da Penha</a>
+                    <a class="dropdown-item" href="lei.php"> Lei Maria da Penha</a>
                     <a class="dropdown-item" href="dados.php">Gráficos</a>
                 </div>
             </li>
@@ -140,7 +65,28 @@
 
     <br>
 
-    <h3>Violência Física:</h3>
+    <div id="accordion">
+    <div class="card">
+      <div class="card-header">
+        <a class="card-link" data-toggle="collapse" href="#collapseOne">
+        <h3>Violência Física:</h3>
+        </a>
+      </div>
+      <div id="collapseOne" class="collapse show" data-parent="#accordion">
+        <div class="card-body">
+        <p class="text-justify">
+        Violência Física é definida pelo uso da força física que ofenda o corpo da mulher, 
+        sendo reconhecida por hematomas, arranhões, queimaduras e fratura. É o tipo de violência mais identificável.  
+        Essa violência é a mais notada pela sociedade, dentre todas as outras. Fere o emocional da vítima, deixando traumas. 
+        Ela é mais fácil de denunciar, pois deixa marcas visíveis
+        no corpo da mulher.
+    </p>
+        </div>
+      </div>
+    </div>
+    </div>
+
+   <!-- <h3>Violência Física:</h3>
     <p class="text-justify">
         Violência Física é definida pelo uso da força física que ofenda o corpo da mulher, 
         sendo reconhecida por hematomas, arranhões, queimaduras e fratura. É o tipo de violência mais identificável.  
@@ -148,6 +94,13 @@
         Ela é mais fácil de denunciar, pois deixa marcas visíveis
         no corpo da mulher.
     </p>
+    <ul>
+        <li>Exemplo</li>
+        <li>Exemplo</li>
+        <li>Exemplo</li>
+        <li>Exemplo</li>
+        
+    </ul>
     <br>
 
     <h3>Violência Psicológica:</h3>
@@ -161,6 +114,13 @@
         xingamentos ou humilhação foi a mais comum no Brasil em 2018, atingindo 22% das mulheres. 
         Geralmente esse tipo de violência precede a violência física.
     </p>
+    <ul>
+        <li>Exemplo</li>
+        <li>Exemplo</li>
+        <li>Exemplo</li>
+        <li>Exemplo</li>
+
+    </ul>
 
     <h3>Violência Sexual:</h3>
     <p class="text-justify"> 
@@ -186,11 +146,8 @@
         São ações repetitivas que baixam a autoestima e comprometem também a saúde mental da mulher.
         São considerados casos de violência mora: acusar a mulher de traição, expor a vida intimida e espalhar 
         algo sobre a mulher que seja mentira. Na maioria das vezes esse tipo de violência não é visível.
-    </p>
+    </p> -->
 
 </div>
 
 
-</body>
-
-</html>
