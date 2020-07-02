@@ -66,7 +66,7 @@
     <br>
 
     <div id="accordion">
-    <div class="card">
+    <div class="card">>>
       <div class="card-header">
         <a class="card-link" data-toggle="collapse" href="#collapseOne">
         <h3>Violência Física:</h3>
