@@ -3,6 +3,24 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
+
+<style>
+    
+    /* Header/Blog Title */
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: #90dcdd;
+  margin-left: 105px;
+  margin-right: 96px;
+  font-weight: bold;
+  font-family: Candara;
+}
+
+
+</style>
+
 <!-- Menu -->
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <!-- Logo -->
@@ -52,8 +70,14 @@
         </ul>
     </nav>
     <br>
+
+    <div class="header">
+      <h2>Lei Maria da Penha</h2>
+    </div>
     <br>
-
-    <h1> Lei Maria da Penha</h1>
-    
-
+   
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>

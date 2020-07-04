@@ -52,12 +52,17 @@
         </ul>
     </nav>
     <br>
-    <br>
 
+    <div class="header">
+      <h2>Lei Maria da Penha</h2>
+    </div>
     <br>
-
-    <h1> Denuncie</h1>
-    
+   
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
 
 </body>
 

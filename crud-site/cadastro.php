@@ -52,12 +52,17 @@
         </ul>
     </nav>
     <br>
+    
+    <div class="header">
+      <h2>Cadastre-se</h2>
+    </div>
     <br>
-
-    <br>
-<div class="container">
-<h2><strong>Cadastre-se</strong></h2>
-
+   
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
    
 </div>
 

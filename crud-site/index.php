@@ -3,26 +3,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 
-    <style>
-        
-         /* Make the image fully responsive */
-        
-         .carousel-inner img {
-            width: 100%;
-            height: 100%;
-        }
-        .carousel-control-next,
-        .carousel-control-prev {
-            width: 20%;
-        }
-        .carousel-indicators li {
-            background-color: #fa0d87;
-        }
-        span.carousel-control-next-icon {
-            color: #fa0d87;
-        }
-        
-    </style>
+  
 
 <!-- Menu -->
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
@@ -74,40 +55,16 @@
     </nav>
    <br>
 
-    <div class="container ">
-        <!-- Carousel-->
-        <div id="demo" class="carousel" data-ride="carousel">
-
-            <!-- Indicators -->
-            <ul class="carousel-indicators">
-                <li data-target="#demo" data-slide-to="0"></li>
-                <li data-target="#demo " data-slide-to="1 "></li>
-                <li data-target="#demo " data-slide-to="2 "></li>
-            </ul>
-
-            <!-- The slideshow -->
-            <div class="carousel-inner ">
-                <div class="carousel-item active ">
-                    <img src="imagens/imagem1.png " alt="Teste " width="1100 " height="500 ">
-                </div>
-                <div class="carousel-item ">
-                    <img src="imagens/imagem2.png " alt="Teste2 " width="1100 " height="500 ">
-                </div>
-                <div class="carousel-item ">
-                    <img src="imagens/imagem3. " alt="Teste3 " width="1100 " height="500 ">
-                </div>
-            </div>
-
-            <!-- Left and right controls -->
-            <a class="carousel-control-prev " href="#demo " data-slide="prev ">
-                <span class="carousel-control-prev-icon "></span>
-            </a>
-            <a class="carousel-control-next " href="#demo " data-slide="next ">
-                <span class="carousel-control-next-icon "></span>
-            </a>
+   <div class="header">
+      <h2>HOME</h2>
+    </div>
+    <br>
+   
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
         </div>
     </div>
-    <!-- Fim Carousel-->
     
 
 

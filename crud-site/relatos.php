@@ -52,10 +52,15 @@
         </ul>
     </nav>
     <br>
+    <div class="header">
+      <h2>Relatos/Depoimentos</h2>
+    </div>
     <br>
-
-    <br>
-<h3>relatos</h3>
    
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
     
 

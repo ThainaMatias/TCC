@@ -8,7 +8,7 @@
 
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
@@ -21,7 +21,7 @@
 
     <style>
         .bg-dark {
-            background-color: #6FCACB !important;
+            background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%) !important;
         }
         
         .navbar-dark .navbar-nav .nav-link {
@@ -34,7 +34,7 @@
         
         body {
             font-size: 1.1rem;
-            background-color: white;
+            background-color: #ffffff;
         }
         
         .navbar-expand-sm .navbar-nav .nav-link {
@@ -49,16 +49,26 @@
          /* Make the image fully responsive */
         
          
-        .container {
-            width: 70vw;
+         .container {
+            width: 83.7vw;
             height: 150vh;
             flex-direction: row;
             justify-content: center;
-            margin-left: 200px;
+            margin-left: 105px;
             margin-right: 600px;
             background-color: #EAFFFF ;
         }
-        h3,h1{
+        .header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: #8828EF;
+  margin-left: 105px;
+  margin-right: 96px;
+  font-weight: bold;
+  font-family: Candara;
+}
+h3,p, h2{
             color: black;
             font-family: Candara;
         }
@@ -90,6 +100,9 @@
                 position: absolute;
                 background-color:#6FCACB ;
             }
+
+            /* Header/Blog Title */
+
     </style>
 
 

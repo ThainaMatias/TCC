@@ -52,10 +52,15 @@
         </ul>
     </nav>
     <br>
-    <br>
 
+    <div class="header">
+      <h2>ONGs</h2>
+    </div>
     <br>
-
-    <h1> ONGs</h1>
-    
+   
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
 
