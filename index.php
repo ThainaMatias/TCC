@@ -9,7 +9,7 @@
 <!-- TÍTULO DA PÁGINA -->
    <div class="header">
       <h2 style="color: #bff7f7;
-            font-family: Candara;">HOME</h2>
+            font-family: Candara;">TESTEEEEEEEE</h2>
     </div>
     <br>
    
