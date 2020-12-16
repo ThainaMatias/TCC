@@ -1,0 +1,20 @@
+.navbar-dark .navbar-text{
+     color: white;
+}
+.modal-body{
+    background-color:rgb(192, 181, 181);
+    /* height: 900px;*/
+}
+.form-control{
+    min-width:200px; /* no minimo que vai ocupar na tela */ 
+    max-width: 600px;
+}
+.jumbotron{
+    margin-bottom: 0px;
+}
+h1{
+    margin-top: 50px;
+}
+#cursor{
+    cursor: pointer;
+}

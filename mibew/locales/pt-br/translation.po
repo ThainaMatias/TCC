@@ -1,0 +1,2110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mibew Messenger 2.0\n"
+"Report-Msgid-Bugs-To: support@mibew.org\n"
+"POT-Creation-Date: 2014-08-19 12:44+0000\n"
+"PO-Revision-Date: 2018-10-30 03:08+0300\n"
+"Last-Translator: pkelbern\n"
+"Language: pt_BR\n"
+"Language-Team: Mibew Translators <support@mibew.org>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"MIME-Version: 1.0\n"
+
+msgid "\"Mail is sent\" window"
+msgstr "O e-mail foi enviado através da janela"
+
+msgid "\"Max number of threads\" field should be a number"
+msgstr "O Campo \"Número máximo de tópicos\" deve ser númérico"
+
+msgid "\"Message is delivered\" window"
+msgstr "Ver a janela de mensagens enviadas"
+
+msgid "\"Visitor is redirected\" window"
+msgstr "O visitante foi redirecionado para outra janela"
+
+msgid "&lt;no description&gt;"
+msgstr "&lt;Sem descrição&gt;"
+
+msgid "(away)"
+msgstr "(Ausente)"
+
+msgid "(online)"
+msgstr "(online)"
+
+msgid "-all operators-"
+msgstr "-Todos os Operadores-"
+
+msgid "-from general settings-"
+msgstr "- configurações orginais -"
+
+msgid "-none-"
+msgstr "-nenhum-"
+
+msgid "0 allows any number of connections"
+msgstr "0 Sem quantidades de conexões"
+
+msgid "<b>Application installed successfully.</b>"
+msgstr "<b>Aplicação instalado com sucesso.</b>"
+
+msgid "<strong>Caution!</strong> Please don't change<br/> the code manually because<br/> we don't guarantee that<br/> it will work!"
+msgstr "<strong>Cuidado!</strong> Por favor, não mude<br/> o código manualmente, <br/> pode não funcionar.<br/>"
+
+msgid "A history of your chat was sent to address {0}"
+msgstr "O histórico da sua conversa foi enviado para {0}"
+
+msgid "A new visitor is waiting for an answer."
+msgstr "Um novo visitante está aguardando resposta."
+
+msgid "A preview all pages for each style is available <a href=\"{0}\">here</a>"
+msgstr "Para visualizar todos os estilos, clique <a href=\"{0}\">aqui</a>"
+
+msgid "Ability to modify profile"
+msgstr "Habilitar modificação de perfil"
+
+msgid "Add address"
+msgstr "Adicionar endereço"
+
+msgid "Add message..."
+msgstr "Adicionar Mensagem..."
+
+msgid "Add new message."
+msgstr "Adicionando nova Mensagem."
+
+msgid "Add operator..."
+msgstr "Criar um novo agente.."
+
+msgid "Address {0} is blocked for a specified number of days."
+msgstr "Endereço {0} está bloquado por uma quantidade determinada de dias."
+
+msgid "Adds a page with messenger usage reports."
+msgstr "Adiciona página com relatórios de uso das mensagens."
+
+msgid "Administration"
+msgstr "Área Administrativa"
+
+msgid "All strings"
+msgstr "Todas as expressões"
+
+msgid "Allow secure connections (SSL)"
+msgstr "Permitir conexões seguras (SSL)"
+
+msgid "Allows a visitor to choose department/group"
+msgstr "Permite ao visitante escolher departamento / grupo"
+
+msgid "Allows users to change their names"
+msgstr "Permite que os visitantes editem seus nomes"
+
+msgid "Application path is {0}"
+msgstr "Caminho do aplicativo é {0}"
+
+msgid "Are you sure that you want to delete address {0} from the blocked list?"
+msgstr "Deseja excluir o endereço {0} da lista de bloqueados?"
+
+msgid "Are you sure that you want to delete operator \"{0}\"?"
+msgstr "Deseja excluir o operador \"{0}\"?"
+
+msgid "Are you sure that you want to delete the group \"{0}\"?"
+msgstr "Tem certeza que pretende eliminar grupo \"{0}\"?"
+
+msgid "Ask for visitor's email"
+msgstr "Pergunte o e-mail do visitante"
+
+msgid "Ask your question"
+msgstr "Faça sua pergunta"
+
+msgid "Average chat time (in seconds)"
+msgstr "Tempo médio de chat (em segundos)"
+
+msgid "Average message length (in chars)"
+msgstr "Tamanho da mensagem (em caracteres)"
+
+msgid "Away"
+msgstr "Ausente"
+
+msgid "Back to login"
+msgstr "Voltar para o Login"
+
+msgid "Back..."
+msgstr "Voltar..."
+
+msgid "Ban List"
+msgstr "Bloqueados"
+
+msgid "Ban this visitor"
+msgstr "Bannir o visitante"
+
+msgid "Block address"
+msgstr "Bloquear endereço"
+
+msgid "Blocked visitors"
+msgstr "Visitantes bloqueados"
+
+msgid "Browser"
+msgstr "Navegador"
+
+msgid "Button HTML code generation"
+msgstr "Gerador do código HTML do botão"
+
+msgid "Button HTML code generation."
+msgstr "Botão de geração de código HTML."
+
+msgid "Button code"
+msgstr "Botão"
+
+msgid "Can slow down the update rate of the list"
+msgstr "É possível diminuir a taxa de atualização da lista"
+
+msgid "Canned Messages"
+msgstr "Mensagens prontas"
+
+msgid "Cannot execute:"
+msgstr "Impossivel executar:"
+
+msgid "Cannot read file {0}"
+msgstr "Não é possível ler o arquivo {0}"
+
+msgid "Change"
+msgstr "Mudar"
+
+msgid "Change locale."
+msgstr "Selecione o Idioma."
+
+msgid "Change name"
+msgstr "Alterar nome"
+
+msgid "Change operator"
+msgstr "Mudar o operador"
+
+msgid "Change restrictions and available features for this operator."
+msgstr "Aqui você pode administrar as permissões dos agentes."
+
+msgid "Change your password"
+msgstr "Mude sua senha Mibew"
+
+msgid "Changes saved"
+msgstr "Alterações gravadas"
+
+msgid "Chat Threads"
+msgstr "Tópicos do Chat"
+
+msgid "Chat history"
+msgstr "Histórico dos chats"
+
+msgid "Chat log"
+msgstr "Log do chat"
+
+msgid "Chat refresh time"
+msgstr "Tempo de atualização da conversa"
+
+msgid "Chat themes preview"
+msgstr "Prévia do Tema"
+
+msgid "Chat threads"
+msgstr "Tópicos do Chat"
+
+msgid "Chat window (operator-mode)"
+msgstr "Janela do Chat (agent-mode)"
+
+msgid "Chat window (user-mode)"
+msgstr "Janela do Chat (visitante)"
+
+msgid "Chat window style"
+msgstr "Estilo da janela de chat"
+
+msgid "Checksum differs for {0}"
+msgstr "A Soma de verificação é diferente de {0}"
+
+msgid "Choose Department:"
+msgstr "Selecione o Departamento:"
+
+msgid "Choose groups according to operator skills."
+msgstr "Escolha grupos de acordo com o operador competências."
+
+msgid "Choose image"
+msgstr "Escolha a imagem"
+
+msgid "Choose style"
+msgstr "Escolher estilo"
+
+msgid "Choose template"
+msgstr "Escolher template"
+
+msgid "Choose the avatar file to upload.<br/>The picture size should not exceed 100x100 px."
+msgstr "Escolha a imagem para fazer o upload. <br/> A imagem não deve exceder 100x100 px."
+
+msgid "Choose your language"
+msgstr "Selecione o Idioma"
+
+msgid "Choose:"
+msgstr "Escolha:"
+
+msgid "Click on this link to close the window"
+msgstr "Clique neste link para fechar a janela"
+
+msgid "Click to chat with the visitor"
+msgstr "Clique para conversar com o visitante"
+
+msgid "Click to check the sound: {0} and {1}"
+msgstr "Clique para ajustar o som: {0} e {1}"
+
+msgid "Click to close the window"
+msgstr "Clique aqui para fechar a janela"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Close chat"
+msgstr "Fechar chat"
+
+msgid "Close..."
+msgstr "Fechar..."
+
+msgid "Closed"
+msgstr "Fechado"
+
+msgid "Code for group"
+msgstr "Selecione o Grupo"
+
+msgid "Code for language"
+msgstr "Idioma"
+
+msgid "Comment"
+msgstr "Comentário"
+
+msgid "Company title"
+msgstr "Nome da Empresa"
+
+msgid "Compatibility with mod_security (modsecurity.org), turn on only if you have problems with it"
+msgstr "Compatibilidade com o mod_security (modsecurity.org), ative-o apenas em caso de problemas"
+
+msgid "Completed:"
+msgstr "Pronto:"
+
+msgid "Confirm new password."
+msgstr "Confirme a nova senha."
+
+msgid "Confirmation"
+msgstr "Confirmação"
+
+msgid "Correct the mistakes:"
+msgstr "Corrija os erros:"
+
+msgid "Could not connect. Please check server settings in config.yml. Error: {0}"
+msgstr "Não pode conectar, por favor, verifique as configurações no arquivo config.yml. Erro: {0}"
+
+msgid "Create database \"{0}\""
+msgstr "Criar banco de dados \"{0}\""
+
+msgid "Create new group"
+msgstr "Criando novo Grupo.."
+
+msgid "Create new group here."
+msgstr "Aqui você pode criar novos grupos."
+
+msgid "Create or delete company operators. Manage their permissions."
+msgstr "Criar, deletar agentes da empresa. Administrar suas permissões."
+
+msgid "Create required tables."
+msgstr "Criar as tabelas requeridas."
+
+msgid "Current avatar image"
+msgstr "Imagem do avatar atual"
+
+msgid "Database \"{0}\" is created."
+msgstr "O banco de dados \"{0}\" está criado."
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Days"
+msgstr "Dias"
+
+msgid "Delete"
+msgstr "Excluir"
+
+msgid "Department or skill based groups."
+msgstr "Departamento ou habilidade baseada operador grupos."
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Description in English."
+msgstr "Descrição em Inglês."
+
+msgid "Description of the group."
+msgstr "Descrição do grupo."
+
+msgid "Destination for your company name or logo link"
+msgstr "Descrição"
+
+msgid "Direction:"
+msgstr "Direção:"
+
+msgid "Drop existing tables from database"
+msgstr "Exclua as tabelas existentes no sistema"
+
+msgid "E-Mail: {0}"
+msgstr "E-mail: {0}"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Edit Message"
+msgstr "Editando Mensagem"
+
+msgid "Edit an existing message."
+msgstr "Editar uma mensagem."
+
+msgid "Edit general operator settings."
+msgstr "Esta página mostra os detalhes do agente, se você tem permissões, você pode edita-lo."
+
+msgid "Edit messages that you frequently type into the chat."
+msgstr "Editar mensagens que você digita na freqüência de chat."
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Enable \"Groups\""
+msgstr "Ativar \"grupos\""
+
+msgid "Enable \"Groups Isolation\""
+msgstr "Ativar \"Isolação de Grupos\""
+
+msgid "Enable \"Popup dialog notification of the new visitor\"."
+msgstr "Ativar \"Notificação de diálogo pop-up do novo visitante\"."
+
+msgid "Enable \"Pre-chat survey\""
+msgstr "Ativar \"pesquisa pré-chat\""
+
+msgid "Enable \"Statistics\""
+msgstr "Ativar \"Estatísticas\""
+
+msgid "Enable feature \"Malicious Visitors\""
+msgstr "Ativar opção \"visitante mal-intencionado\""
+
+msgid "Enter"
+msgstr "Entrar"
+
+msgid "Enter a new password or leave the field empty to keep the previous one."
+msgstr "Digite uma nova senha. Campo vazio para não alterar."
+
+msgid "Enter a valid email address"
+msgstr "Digite um e-mail válido"
+
+msgid "Enter an email to receive system messages"
+msgstr "Digite um e-mail para receber mensagens do sistema"
+
+msgid "Enter http address of your company logo"
+msgstr "Endereço do seu logo tipo"
+
+msgid "Enter your company title"
+msgstr "Digite o nome da sua Empresa"
+
+msgid "Enter your email:"
+msgstr "Digite seu e-mail:"
+
+msgid "Enter your translation."
+msgstr "Coloque sua tradução."
+
+msgid "Entered login/password is incorrect"
+msgstr "Usuário e/ou senhas incorretos"
+
+msgid "Entered passwords do not match"
+msgstr "As senhas digitadas não correspondem"
+
+msgid "Environment:"
+msgstr "Ambiente:"
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "Error moving file"
+msgstr "Erro ao mover arquivo"
+
+msgid "Error occurred:"
+msgstr "Erro ocorrido:"
+
+msgid "Error uploading file \"{0}\": {1}."
+msgstr "Erro ao fazer upload do arquivo \"{0}\": \"{1}\"."
+
+msgid "Error window"
+msgstr "Janela de erro"
+
+msgid "Ex: 127.0.0.1 or example.com"
+msgstr "Ex: 127.0.0.1 ou example.com"
+
+msgid "Example"
+msgstr "Exemplo"
+
+msgid "Exit"
+msgstr "Sair"
+
+msgid "Features activated"
+msgstr "Características Ativas"
+
+msgid "File is absent: {0}"
+msgstr "Arquivo faltante: {0}"
+
+msgid "Follow the wizard to setup your database."
+msgstr "Siga o instalador para completar a instalação."
+
+msgid "For group:"
+msgstr "Para o Grupo:"
+
+msgid "For language:"
+msgstr "Por Idioma:"
+
+msgid "For notifications and password retrieval."
+msgstr "Para notificações e recuperação de senha."
+
+msgid "Force all chats to be secure"
+msgstr "Obriga que todas as conversas sejam em ambiente seguro"
+
+msgid "Force visitor to enter a verification code when leaving message"
+msgstr "Obriga o visitante a inserir um código de verificação quando deixar mensagem"
+
+msgid "Forces the user to fill out a special form to start a chat."
+msgstr "Obriga o usuário a preencher um formulário especial para iniciar a conversa."
+
+msgid "Forgot your password?"
+msgstr "Esqueceu sua senha?"
+
+msgid "Found 0 elements"
+msgstr "Encontrado 0 elemento(s)"
+
+msgid "From this page you can generate a variety of usage reports."
+msgstr "Nesta página, você pode gerar uma variedade de relatórios."
+
+msgid "From:"
+msgstr "De:"
+
+msgid "Full list of operators:"
+msgstr "Lista de todos os agentes:"
+
+msgid "Functions available for site operators."
+msgstr "Funções disponíveis para administradores."
+
+msgid "General"
+msgstr "Geral"
+
+msgid "Go to search"
+msgstr "Procurar"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Group details"
+msgstr "Grupo detalhes"
+
+msgid "Group email for notifications. Leave empty to use the default address."
+msgstr "Grupo de e-mail para notificações. Deixe em branco para usar o endereço padrão."
+
+msgid "Group:"
+msgstr "Grupo:"
+
+msgid "Groups"
+msgstr "Grupos"
+
+msgid "Guest"
+msgstr "Visitante"
+
+msgid "HTML code"
+msgstr "Código HTML"
+
+msgid "Hello. How may I help you?"
+msgstr "Olá, Como posso lhe ajudar?"
+
+msgid "Here you can block malicious visitors that affect your work with spam messages."
+msgstr "Aqui você pode bloquear visitante com má intenção, ou spammers."
+
+msgid "Here you can block malicious visitors."
+msgstr "Aqui você pode se defender de visitantes mal-intencionados."
+
+msgid "Hide menu"
+msgstr "Ocultar o Menu"
+
+msgid "Hide menu >>"
+msgstr "Ocultar o Menu >>"
+
+msgid "Home"
+msgstr "Principal"
+
+msgid "How to build visitor's identifying string from {name}, {id} or {addr}. Default: {name}"
+msgstr "Como mostrar o nome do visitante {name}, {id} ou {addr}. Padrão: {name}"
+
+msgid "If you don't agree with the translation please send us an update."
+msgstr "Se você não gostou da tradução, por favor, nos envie uma atualização."
+
+msgid "Impossible to update tables structure. Try to do it manually or recreate all tables (warning: all your data will be lost)."
+msgstr "Não foi possível atualizar a estrutura das tabelas. Tente fazer isto manualmente or recriar todas as tabela (Aviso: Todos seus dados serão perdidos)."
+
+msgid "In chat"
+msgstr "No chat"
+
+msgid "In queue"
+msgstr "Na fila de espera"
+
+msgid "Include host name into the code"
+msgstr "Incluir o nome do host"
+
+msgid "Info: {0}"
+msgstr "Info: {0}"
+
+msgid "Initial Question:"
+msgstr "Pergunta Inicial:"
+
+msgid "Installation"
+msgstr "Instalação"
+
+msgid "Installed localizations:"
+msgstr "Idiomas Instalados:"
+
+msgid "Insufficient file permissions {0}"
+msgstr "Faltam permissões de arquivo {0}"
+
+msgid "International description"
+msgstr "Descrição Internacional"
+
+msgid "International name"
+msgstr "Nome Internacional"
+
+msgid "International name (Latin)"
+msgstr "Nome internacional (Latin)"
+
+msgid "Invalid file type"
+msgstr "Tipo de arquivo inválido"
+
+msgid "Key identifier"
+msgstr "Chave identificadora"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Last active"
+msgstr "Ultima Sessão"
+
+msgid "Latest version:"
+msgstr "Ultima Versão:"
+
+msgid "Leave message window"
+msgstr "Ver a janela de mensagens"
+
+msgid "Leave your message"
+msgstr "Deixe sua mensagem"
+
+msgid "License"
+msgstr "Licença"
+
+msgid "List of banned IPs:"
+msgstr "Lista de IP banidos:"
+
+msgid "List of supported browsers window"
+msgstr "Lista de janelas de browsers suportados"
+
+msgid "List of visitors waiting"
+msgstr "Lista de visitantes em espera"
+
+msgid "Live support"
+msgstr "Chat Suporte"
+
+msgid "Loading"
+msgstr "Carregando"
+
+msgid "Localize"
+msgstr "Idioma"
+
+msgid "Log out of the system."
+msgstr "Sair do sistema."
+
+msgid "Login"
+msgstr "Tela de Acesso"
+
+msgid "Login can consist of small Latin letters and underscore."
+msgstr "Login deve ser alfa-numérico."
+
+msgid "Login or E-mail:"
+msgstr "Login ou E-mail:"
+
+msgid "Login should contain only latin characters, numbers and underscore symbol."
+msgstr "Login deve conter somente caracteres alfa-númericos."
+
+msgid "Login using your new password."
+msgstr "Faça o login usando sua nova senha."
+
+msgid "Login:"
+msgstr "Usuario:"
+
+msgid "Mail thread window"
+msgstr "Enviar e-mail através da janela"
+
+msgid "Main"
+msgstr "Opções"
+
+msgid "Max number of threads from one address"
+msgstr " número máximo de chamadas a partir de um endereço"
+
+msgid "Members"
+msgstr "Membros"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "Messages"
+msgstr "Mensagens"
+
+msgid "Messages from operators"
+msgstr "Mensagens de Operadores"
+
+msgid "Messages from visitors"
+msgstr "Mensagens de Visitantes"
+
+msgid "Messenger settings"
+msgstr "Opções do Messenger"
+
+msgid "Mibew <span class=\"grey\">Messenger</span>"
+msgstr "Mibew <span class=\"grey\">Messenger</span>"
+
+msgid "Mibew Messenger"
+msgstr "Mibew Messenger"
+
+msgid "Mibew Messenger Community"
+msgstr "Mibew Messenger Community"
+
+msgid "Mibew Messenger is an open-source live support application."
+msgstr "Mibew Messenger é um programa de código aberto para suporte ao vivo."
+
+msgid "Mibew package is valid."
+msgstr "O pacote Mibew é válido."
+
+msgid "Misc"
+msgstr "Misc"
+
+msgid "Modify"
+msgstr "Alterar"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Name in English."
+msgstr "Nome em Inglês."
+
+msgid "Name of your company for example."
+msgstr "Departamento de sua empresa por exemplo."
+
+msgid "Name to identify the group."
+msgstr "Nome para identificar o grupo."
+
+msgid "Name:"
+msgstr "Nome:"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "New Message"
+msgstr "Nova Mensagem"
+
+msgid "New Visitor"
+msgstr "Novo Visitante"
+
+msgid "Next step:"
+msgstr "Próximo Passo:"
+
+msgid "No elements"
+msgstr "Nenhum elemento"
+
+msgid "No such Operator"
+msgstr "Nenhum operador"
+
+msgid "No such group"
+msgstr "Este grupo não existe"
+
+msgid "No such message"
+msgstr "Nenhuma dessas mensagens"
+
+msgid "No. Close the window"
+msgstr "Não, feche esta janela"
+
+msgid "Not enough data"
+msgstr "Não há dados suficientes"
+
+msgid "Numbers of days this address is blocked"
+msgstr "Quantos dias para ignorar este endereço"
+
+msgid "OFFLINE"
+msgstr "OFFLINE"
+
+msgid "ONLINE"
+msgstr "ONLINE"
+
+msgid "Old browsers need to refresh the whole page to get messages. Default is 7 seconds."
+msgstr "Navegadores antigos precisam atualizar a página inteira para receber mensagens. O padrão é de 7 segundos."
+
+msgid "On this page you can edit group details."
+msgstr "Nesta página você pode editar grupo detalhes."
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Operator"
+msgstr "Operador"
+
+msgid "Operator <strong>{0}</strong> changed operator <strong>{1}</strong>"
+msgstr "O operador {0} mudou o operador {1}"
+
+msgid "Operator details"
+msgstr "Detalhes do operador"
+
+msgid "Operator groups"
+msgstr "Operador grupos"
+
+msgid "Operator online time threshold"
+msgstr "Limite de tempo on-line do operador"
+
+msgid "Operator {0} is back"
+msgstr "O operador {0} está de volta"
+
+msgid "Operator {0} joined the chat"
+msgstr "O operador {0} entrou no chat"
+
+msgid "Operator {0} left the chat"
+msgstr "O {0} deixou o chat"
+
+msgid "Operator {0} redirected you to another operator. Please wait a while."
+msgstr "O operador {0} redirecionou você a outro operador, por favor, espere 1 minuto"
+
+msgid "Operator's console refresh time"
+msgstr "Tempo de atualização do console do operador"
+
+msgid "Operator:"
+msgstr "Operador:"
+
+msgid "Operators"
+msgstr "Voluntárias"
+
+msgid "Operators list"
+msgstr "Lista de Voluntárias"
+
+msgid "Optional Services"
+msgstr "Serviços Opcionais"
+
+msgid "Other"
+msgstr "Outros"
+
+msgid "PHP version {0}"
+msgstr "Versão PHP {0}"
+
+msgid "Page refresh time for old browsers"
+msgstr "Tempo de atualização da página para navegadores antigos"
+
+msgid "Page {0} of {1}, {2}-{3} from {4}"
+msgstr "Página {0} de {1}, {2}-{3} até {4}"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Password retrieval"
+msgstr "Recuperação de senha"
+
+msgid "Password:"
+msgstr "Senha:"
+
+msgid "Performance"
+msgstr "Desempenho"
+
+msgid "Permissions"
+msgstr "Permissões"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Please choose a password to use with your account."
+msgstr "Por favor escolha uma senha para usar com a sua conta Mibew."
+
+msgid "Please choose another login because an operator with that login is already registered in the system."
+msgstr "Por favor, escolha outro login, já há este login na base de dados."
+
+msgid "Please choose another name because a group with that name already exists."
+msgstr "Escolha outro nome. Grupo Já Cadastrado."
+
+msgid "Please enter your company title"
+msgstr "Nome da empresa"
+
+msgid "Please enter your username and password to access administrative tools. See your visitors and browse the history."
+msgstr "Digite seu nome de usuário e senha para acessar ferramentas administrativas, ver os seus visitantes e percorrer a história."
+
+msgid "Please fill \"{0}\" correctly."
+msgstr "Por favor, preencha \"{0}\" corretamente."
+
+msgid "Please fill \"{0}\"."
+msgstr "Por favor, preencha \"{0}\"."
+
+msgid "Please note that your web server should be configured to support https requests."
+msgstr "Note que seu servidor web deve ser<br/> configurado para suportar requisições https."
+
+msgid "Please run the <a href=\"{0}\">Update wizard</a> to adjust your database."
+msgstr "Por favor, execute o <a href=\"{0}\"> Assistente de atualização </a> para ajustar seu banco de dados."
+
+msgid "Please use a more recent browser"
+msgstr "Por favor, use um browser mais novo"
+
+msgid "Please, re-upload files to the server."
+msgstr "Por favor, reenvie os arquivos para o servidor."
+
+msgid "Powered by:"
+msgstr "Desenvolvido por:"
+
+msgid "Pre-chat survey"
+msgstr "Estudo Pré-chat"
+
+msgid "Priority visitors' queue"
+msgstr "Fila de prioridade para visitantes"
+
+msgid "Problem"
+msgstr "Problema"
+
+msgid "Proceed to login"
+msgstr "Prossiga para fazer o login"
+
+msgid "Proceed to the login page"
+msgstr "Ir para a página de login"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Protection against automated spam (captcha)"
+msgstr "Proteção contra spam automatizado (captcha)"
+
+msgid "Reason for block"
+msgstr "Razão para bloquear"
+
+msgid "Redirect to<br/>another operator"
+msgstr "Redirecionar para<br/>outro atendente"
+
+msgid "Redirect visitor to another operator"
+msgstr "Redirecionar visitante para outro operador"
+
+msgid "Redirect visitor to another operator window"
+msgstr "Redirecionar visitante para outro janela"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Remember"
+msgstr "Lembrar"
+
+msgid "Remote user is typing..."
+msgstr "Usuário remoto está digitando..."
+
+msgid "Remove avatar"
+msgstr "Remover avatar"
+
+msgid "Required tables are created."
+msgstr "Tabelas requeridas foram criadas."
+
+msgid "Reset password"
+msgstr "Redefinir a senha"
+
+msgid "Resolve the problem and try again. Press <a>back</a> to return to the wizard."
+msgstr "Resolva o problema e tente novamente. Clique <a>voltar</a> para retornar ao instalador."
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Saved"
+msgstr "Salvo"
+
+msgid "Search"
+msgstr "Procurar"
+
+msgid "Search the chat history for a specified user, an operator or a specified phrase in messages."
+msgstr "Procurar por históricos de chat de um determinado visitante ou uma frase específica."
+
+msgid "Search the dialogs history."
+msgstr "Procurar histórico de conversa."
+
+msgid "Select a style for your chat windows"
+msgstr "Selecione um estilo para suas janelas de chat"
+
+msgid "Select answer..."
+msgstr "Escolha a resposta..."
+
+msgid "Select dates"
+msgstr "Filtro por Data"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Send ({0})"
+msgstr "Enviar ({0})"
+
+msgid "Send chat history by e-mail"
+msgstr "Envie histórico do chat por e-mail"
+
+msgid "Send chat history<br/>by mail"
+msgstr "Enviar histórico do chat<br/>por email"
+
+msgid "Send message"
+msgstr "Enviar Mensagem"
+
+msgid "Send messages with:"
+msgstr "Enviar mensagem como:"
+
+msgid "Sent"
+msgstr "Enviado"
+
+msgid "Set status as \"Available\""
+msgstr "Definir status \"Disponível\""
+
+msgid "Set status as \"Away\""
+msgstr "Definir status \"Ausente\""
+
+msgid "Set the number of seconds to show an operator as online. Default is 30 seconds."
+msgstr "Defina quantos mostrar operador como online. O padrão é 30 segundos."
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Show chats only through https connection"
+msgstr "Mostrar conversas apenas através de uma conexão https"
+
+msgid "Show errors"
+msgstr "Monstrar error"
+
+msgid "Show initial question field"
+msgstr "Mostrar campo pergunta inicial"
+
+msgid "Show menu"
+msgstr "Visualisar o Menu"
+
+msgid "Show menu >>"
+msgstr "Visualisar o Menu >>"
+
+msgid "Show online operators on \"List of awaiting visitors\" page"
+msgstr "Mostrar operadores on-line na página de \"Lista de espera de visitantes\""
+
+msgid "Show/hide department selection field in the survey"
+msgstr "Mostrar / ocultar campo de seleção de departamento na pesquisa"
+
+msgid "Show/hide email field in the survey"
+msgstr "Mostrar / ocultar campo email na pesquisa"
+
+msgid "Show/hide initial question field in the survey"
+msgstr "Mostrar/ocultar campo pergunta inicial da pesquisa"
+
+msgid "Show:"
+msgstr "Mostrar:"
+
+msgid "Simple chat window. Refresh to post messages (IE 5, Opera 7)"
+msgstr "Janela de chat simples, atualize para mandar mensagens (IE 5, Opera 7)"
+
+msgid "Site consultant"
+msgstr "Atendente"
+
+msgid "Site style"
+msgstr "Estilo do site"
+
+msgid "Small dialog appears to attract your attention."
+msgstr "Diálogos curtos parecem atrair sua atenção."
+
+msgid "Software license agreement"
+msgstr "Concordo com a licença do Software"
+
+msgid "Sorry. None of the support team is available at the moment. <br/>Please leave a message and someone will get back to you shortly."
+msgstr "Desculpe, o operador não está on-line no momento. Por favor, tente novamente mais tarde ou preencha o formulário abaixo."
+
+msgid "Sort by:"
+msgstr "Ordenar por:"
+
+msgid "Source language string"
+msgstr "Idioma de origem das expressões"
+
+msgid "Specify options affecting chat window and common system behavior."
+msgstr "Opções específicas afetam a janela do chat e o comportamento do sistema."
+
+msgid "Specify the poll interval in seconds. Default is 2 seconds."
+msgstr "Especifique o intervalo de sondagem em segundos. O padrão é 2 segundos."
+
+msgid "Start Chat"
+msgstr "Iniciar Chat"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Statistics"
+msgstr "Estatísticas"
+
+msgid "Strings for administrator"
+msgstr "Expressões para administrador"
+
+msgid "Strings for operator"
+msgstr "Expressões para atendente"
+
+msgid "Strings for visitor"
+msgstr "Expressões para visitante"
+
+msgid "Structure of your tables should be adjusted for new version of Messenger."
+msgstr "A estrutura de suas tabelas deve ser ajustada para a nova versão do Messenger."
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "System administration: settings, operators management, button generation"
+msgstr "Administração do sistema: Configurações, administraçao dos agentes, etc"
+
+msgid "Tables structure is up to date."
+msgstr "Estruturas das tabelas estão criadas."
+
+msgid "Take over chat thread"
+msgstr "Entrar no chat de outro operador"
+
+msgid "Thank you for contacting us. An operator will be with you shortly."
+msgstr "Obrigado por nos contatar. Aguarde..."
+
+msgid "Thank you for contacting us. Please fill out the form below and click the Start Chat button."
+msgstr " Obrigado por entrar em contato conosco! Para melhor servir você, por favor preencha o formulário abaixo e clique no botão Iniciar Chat."
+
+msgid "Thank you for your message. We'll answer your query by email as soon as possible."
+msgstr "Obrigado por usar nossos serviços. Vamos responder seu e-mail imediamente."
+
+msgid "The database was not found on the server. If you have permissions to create it now, click on the following link."
+msgstr "O banco de dados não foi encontrado neste servidor. Se você tem permissão para cria-lo, clique no link seguinte."
+
+msgid "The fields that located below are extra fields. These fields are only available for the top level groups and override corresponding system settings if specified."
+msgstr "Os campos localizados abaixo são campos extras. Somente estão disponíveis para grupos principais e sobreescrevem as configurações correspondentes se especificadas."
+
+msgid "The letters you typed don't match the letters that were shown in the picture."
+msgstr "As letras que você digitou não coincidem com as letras que aparecem na imagem."
+
+msgid "The list of visitors waiting is empty"
+msgstr "A lista de visitantes em espera está vazia"
+
+msgid "The specified address is already in use. Click <a href=\"{1}\">here</a> if you want to edit it."
+msgstr "O endereço especificado já está em uso, clique <a href=\"{1}\">aqui</a> se você deseja editá-lo."
+
+msgid "The upper limit of uploaded files (avatars) in bytes. Default is 100000 bytes."
+msgstr "O tamanho máximo de envio de arquivos (avatares) em bytes. O padrão é de 100000 bytes."
+
+msgid "The visitor changed their name <strong>{0}</strong> to <strong>{1}</strong>"
+msgstr "O visitante mudou seu nome {0} para {1}"
+
+msgid "The visitor has been placed in a priorty queue of the group {0}."
+msgstr "O visitante passou para a fila de prioridades do grupo {0}."
+
+msgid "The visitor has been placed in the priorty queue of the operator {0}."
+msgstr "O visitante passou para a fila de prioridades do operador {0}."
+
+msgid "The visitor has been redirected to another operator"
+msgstr "O visitante foi redirecionado a outro operador"
+
+msgid "There are so many browsers to choose from. Which ones do you recommend?"
+msgstr "Existem muitos navegadores para escolher. Qual deles você me recomenda?"
+
+msgid "This name will be seen by your visitors."
+msgstr "Este nome será visto pelos usuários."
+
+msgid "This page displays a list of company operators."
+msgstr "Esta página mostar a lista de agentes da empresa e também permite adicionar novos."
+
+msgid "This page displays a list of groups. Each group can have separate button and canned responses."
+msgstr "Esta página apresenta uma lista de grupos na sua empresa. Cada grupo pode ter separadamente seu perfil."
+
+msgid "This page displays a list of visitors who are waiting."
+msgstr "Esta página contém a lista de visitante em espera."
+
+msgid "This page displays chat details and content."
+msgstr "Está página mostra todos os chats."
+
+msgid "Threads by operator"
+msgstr "Dados pelo Operador"
+
+msgid "Till"
+msgstr "Antes"
+
+msgid "Till:"
+msgstr "Até:"
+
+msgid "Time in chat"
+msgstr "Tempo no chat"
+
+msgid "Title in the chat window"
+msgstr "Título na janela do chat"
+
+msgid "To answer the visitor click their name in the list."
+msgstr "Para responder ao visitante, clique em seu nome na lista."
+
+msgid "Today at {0}"
+msgstr "Hoje às {0}"
+
+msgid "Total time"
+msgstr "Tempo total"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Translation"
+msgstr "Tradução"
+
+msgid "Translations"
+msgstr "Traduzir o Mibew"
+
+msgid "Trouble Accessing Your Account?"
+msgstr "Problemas para acessar sua conta?"
+
+msgid "Turn off to hide edit box from chat window"
+msgstr "Desligue para esconder o box de edição da janela de chat"
+
+msgid "URL of your website"
+msgstr "URL de seu site"
+
+msgid "Update tables"
+msgstr "Atualizar tabelas"
+
+msgid "Upload avatar"
+msgstr "Fazer upload do avatar"
+
+msgid "Upload photo"
+msgstr "Fazer upload foto"
+
+msgid "Uploaded file size exceeded"
+msgstr "Tamanho do arquivo excedido"
+
+msgid "Usage statistics for each date"
+msgstr "Estatísticas de utilização para cada data"
+
+msgid "Use it to have separate queues for different questions."
+msgstr "Use-o para ter filas separadas para questões diferentes."
+
+msgid "Use secure links (https)"
+msgstr "Usar link seguro (https)"
+
+msgid "User name, operator name or message text search:"
+msgstr "Nome de visitante ou mensagem a ser procurado:"
+
+msgid "Using it you can block attacks from specific IPs"
+msgstr "Usando esta opção você pode bloquear ataques de IPs especificos"
+
+msgid "View Chat window (operator in read-only mode)"
+msgstr "Ver janela do chat (Modo de leitura)"
+
+msgid "View and edit the member list."
+msgstr "Ver e editar a lista de membros."
+
+msgid "View another operator's chat thread"
+msgstr "Ver o chat de outro operador"
+
+msgid "Visit history"
+msgstr "Histórico de visitas"
+
+msgid "Visitor <span class=\"visitor\">{0}</span> is already being assisted by <span class=\"operator\">{1}</span>.<br/> Are you really sure you want to start chatting the visitor?"
+msgstr "O visitante <span class=\"visitor\">{0}</span> já está sendo atendido <span class=\"operator\">{1}</span>.<br/> Você tem certeza que quer entrar no chat?"
+
+msgid "Visitor closed chat window"
+msgstr "O visitante fechou a janela do chat"
+
+msgid "Visitor joined chat again"
+msgstr "O visitante entrou no chat"
+
+msgid "Visitor navigated to {0}"
+msgstr "O Visitante navegou para {0}"
+
+msgid "Visitor {0} left the chat"
+msgstr "O visitante {0} deixou o chat"
+
+msgid "Visitor's Address"
+msgstr "Endereço do visitante"
+
+msgid "Visitor's address"
+msgstr "Endereço do usuário"
+
+msgid "Visitor's identifier"
+msgstr "Apresentação do nome do visitante"
+
+msgid "Visitor's messages"
+msgstr "Mensagens do visitante"
+
+msgid "Visitors"
+msgstr "Visitantes"
+
+msgid "Visitors in dialogs"
+msgstr "Visitantes no chat"
+
+msgid "Visitor came from page {0}"
+msgstr "O visitante veio da página {0}"
+
+msgid "Waiting an operator for the first time"
+msgstr "Esperando um operador"
+
+msgid "Waiting for operator"
+msgstr "Esperando por um operador"
+
+msgid "Waiting time"
+msgstr "Tempo de espera"
+
+msgid "Watch the chat"
+msgstr "Espie o chat"
+
+msgid "We've sent the instructions to your email. Please check it."
+msgstr "Enviamos as instruções para seu e-mail. Por favor, verifique!"
+
+msgid "Yes. I'm sure"
+msgstr "Sim, tenho certeza"
+
+msgid "Yesterday at {0}"
+msgstr "Ontem às {0}"
+
+msgid "You are"
+msgstr "Usuário"
+
+msgid "You are Offline. <a href=\"{0}\">Connect...</a>"
+msgstr "Você está Offline. <a href=\"{0}\">Conecte..</a>"
+
+msgid "You are Offline.<br/><a href=\"{0}\">Connect...</a>"
+msgstr "Você está Offline.<br/><a href=\"{0}\">Conecte..</a>"
+
+msgid "You are chatting with:"
+msgstr "Você está conversando:"
+
+msgid "You are connected to MySQL server version {0}"
+msgstr "Você está conectado ao Servidor MySQL, versão {0}"
+
+msgid "You are not allowed to change this person's profile."
+msgstr "Você não possui permissão para alterar o perfil desta pessoa."
+
+msgid "You are not chatting with the visitor."
+msgstr "Você não está conversando com os visitantes."
+
+msgid "You are using:"
+msgstr "Você está usando:"
+
+msgid "You are <a href=\"{0}\">{1}</a>"
+msgstr "Bem Vindo <a href=\"{0}\">{1}</a>"
+
+msgid "You can change your personal information on this page."
+msgstr "Você pode alterar suas informações pessoais nesta página."
+
+msgid "You can create a new operator here."
+msgstr "Aqui você pode criar um novo operador."
+
+msgid "You can find awaiting visitors."
+msgstr "Você pode encontrar visitantes em espera."
+
+msgid "You can find the chat history of your visitors here."
+msgstr "Você pode encontrar o histórico de chat dos visitante aqui."
+
+msgid "You can generate HTML code to place at your site here."
+msgstr "Você pode gerar o código HTML para colocar no seu site aqui."
+
+msgid "You can logon as <b>admin</b> with empty password.<br/><br/><span class=\"warning\">!!! For security reasons please change your password immediately and remove the {0} folder from your server.</span>"
+msgstr "Você pode logar como <b>admin</b> com a senha em branco.<br/><br/><span class=\"warning\">!!! Por razões de segurança, mude sua imediatamente e remove a pasta {0} do seu servidor.</span>"
+
+msgid "You can upload your photo only as JPG, GIF, PNG or TIF image files."
+msgstr "Você pode somente fazer upload de suas fotos no formato JPG, GIF, PNG or TIF."
+
+msgid "You can view the list of themes you currently have installed here."
+msgstr "Você pode visualizar estilos do seu site."
+
+msgid "You cannot retrieve your password, but you can set a new one by following a link sent to you by email."
+msgstr "Não é possível recuperar sua senha, mas você pode definir uma nova, clicando no link enviado por e-mail."
+
+msgid "You have selected From date after Till date"
+msgstr "Você selecionou um periodo de datas"
+
+msgid "You opened this window for \"{0}\" thread. <i>Address</i> field is already filled. Select a number of days and click <i>Send</i>."
+msgstr "Você abriu esta janela por \"{0}\" entretanto, <i>o campo endereço</i> já está preenchido. Selecione um número de dias e clique <i>Enviar</i>."
+
+msgid "Your avatar image."
+msgstr "Seu avatar."
+
+msgid "Your company logo"
+msgstr "Seu Logotipo"
+
+msgid "Your email"
+msgstr "Seu e-mail"
+
+msgid "Your message has been sent"
+msgstr "Sua mensagem foi enviada"
+
+msgid "Your name"
+msgstr "Seu nome"
+
+msgid "Your operator has connection issues. We have moved you to a priorty position in the queue. Sorry for keeping you waiting."
+msgstr "O operador teve problemas em sua conexão, você está temporariamente em espera, desculpe-nos pela demora."
+
+msgid "Your password has been changed."
+msgstr "Sua senha foi alterada!"
+
+msgid "Your session has expired. Please login again"
+msgstr "Sua sessão expirou, por favor faça novamente o login"
+
+msgid "Your translation is saved."
+msgstr "Sua tradução foi salva."
+
+msgid "[spam]"
+msgstr "[spam]&nbsp;"
+
+msgid "ascending"
+msgstr "ascendente"
+
+msgid "by operator "
+msgstr "por operador"
+
+msgid "by visitor"
+msgstr "por visitante"
+
+msgid "descending"
+msgstr "descendente"
+
+msgid "disable"
+msgstr "desabilitar"
+
+msgid "edit"
+msgstr "Editar"
+
+msgid "everywhere"
+msgstr "em qualquer lugar"
+
+msgid "in messages"
+msgstr "nas mensagens"
+
+msgid "mandatory fields"
+msgstr "Campos obrigatórios"
+
+msgid "next"
+msgstr "Próximo"
+
+msgid "previous"
+msgstr "Anterior"
+
+msgid "remove"
+msgstr "Remover"
+
+msgid "without menu"
+msgstr "Ocultar Menu"
+
+msgid "Visitor accepted invitation from operator {0}"
+msgstr "Visitor accepted invitation from operator {0}"
+
+msgid "Thank you for contacting us. We are sorry, but requested operator <strong>{0}</strong> is offline. Another operator will be with you shortly."
+msgstr "Thank you for contacting us. We are sorry, but requested operator <strong>{0}</strong> is offline. Another operator will be with you shortly."
+
+msgid "This action is irreversible, proceed anyway?"
+msgstr "This action is irreversible, proceed anyway?"
+
+msgid "Are you sure that you want to uninstall plugin \"{0}\"?"
+msgstr "Are you sure that you want to uninstall plugin \"{0}\"?"
+
+msgid "Operator {0} invites visitor at {1} page"
+msgstr "Operator {0} invites visitor at {1} page"
+
+msgid "Hello, how can I help you?"
+msgstr "Hello, how can I help you?"
+
+msgid "Visitor rejected invitation"
+msgstr "Visitor rejected invitation"
+
+msgid "Visitor ignored invitation and it was closed automatically"
+msgstr "Visitor ignored invitation and it was closed automatically"
+
+msgid "Ability to view system statistics"
+msgstr "Ability to view system statistics"
+
+msgid "Department description:"
+msgstr "Department description:"
+
+msgid "Please note that by leaving the message you're explicitly agree with the <a href=\"{0}\" target=\"_blank\">Privacy Policy</a>"
+msgstr "Please note that by leaving the message you're explicitly agree with the <a href=\"{0}\" target=\"_blank\">Privacy Policy</a>"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Please note that by starting the chat you're explicitly agree with the <a href=\"{0}\" target=\"_blank\">Privacy Policy</a>"
+msgstr "Please note that by starting the chat you're explicitly agree with the <a href=\"{0}\" target=\"_blank\">Privacy Policy</a>"
+
+msgid "Network problems detected. Please refresh the page."
+msgstr "Network problems detected. Please refresh the page."
+
+msgid "Turn off sound"
+msgstr "Turn off sound"
+
+msgid "Turn on sound"
+msgstr "Turn on sound"
+
+msgid "Operator canceled invitation"
+msgstr "Operator canceled invitation"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Styles"
+msgstr "Styles"
+
+msgid "Mail templates"
+msgstr "Mail templates"
+
+msgid "About"
+msgstr "About"
+
+msgid "About Mibew Messenger"
+msgstr "About Mibew Messenger"
+
+msgid "Mibew Messenger is an open-source live support application licensed under the terms of the Apache License 2.0."
+msgstr "Mibew Messenger is an open-source live support application licensed under the terms of the Apache License 2.0."
+
+msgid "Copyright &copy; {0} Contributors of the Mibew Messenger project."
+msgstr "Copyright &copy; {0} Contributors of the Mibew Messenger project."
+
+msgid "For more information visit the official site of the project: <a href=\"https://mibew.org/\">https://mibew.org/</a>"
+msgstr "For more information visit the official site of the project: <a href=\"https://mibew.org/\">https://mibew.org/</a>"
+
+msgid "System information"
+msgstr "System information"
+
+msgid "Available updates"
+msgstr "Available updates"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "There are no available updates."
+msgstr "There are no available updates."
+
+msgid "Check for available updates"
+msgstr "Check for available updates"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Generating code type"
+msgstr "Generating code type"
+
+msgid "Use windows (even for modern browsers)"
+msgstr "Use windows (even for modern browsers)"
+
+msgid "Invitation style"
+msgstr "Invitation style"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "{0} plugin"
+msgstr "{0} plugin"
+
+msgid "Weight"
+msgstr "Weight"
+
+msgid "Groups with lower weight display higher in groups list. Group weight is a positive integer value."
+msgstr "Groups with lower weight display higher in groups list. Group weight is a positive integer value."
+
+msgid "Parent group"
+msgstr "Parent group"
+
+msgid "Groups can be organized in a hierarchical structure"
+msgstr "Groups can be organized in a hierarchical structure"
+
+msgid "Click to chat"
+msgstr "Click to chat"
+
+msgid "button"
+msgstr "button"
+
+msgid "operator code field"
+msgstr "operator code field"
+
+msgid "text link"
+msgstr "text link"
+
+msgid "Sort direction:"
+msgstr "Sort direction:"
+
+msgid "Search:"
+msgstr "Search:"
+
+msgid "by operator"
+msgstr "by operator"
+
+msgid "Search in system messages"
+msgstr "Search in system messages"
+
+msgid "Manage plugins."
+msgstr "Manage plugins."
+
+msgid "Manage styles."
+msgstr "Manage styles."
+
+msgid "Manage translations."
+msgstr "Manage translations."
+
+msgid "Manage mail templates."
+msgstr "Manage mail templates."
+
+msgid "View about page."
+msgstr "View about page."
+
+msgid "Tracked path of visitor"
+msgstr "Tracked path of visitor"
+
+msgid "Application installed successfully."
+msgstr "Application installed successfully."
+
+msgid "Click to check the sound"
+msgstr "Click to check the sound"
+
+msgid "For security reasons you should remove install.php file from your server."
+msgstr "For security reasons you should remove install.php file from your server."
+
+msgid "Type a password for the first administrator"
+msgstr "Type a password for the first administrator"
+
+msgid "The system is already installed!"
+msgstr "The system is already installed!"
+
+msgid "Check database connection"
+msgstr "Check database connection"
+
+msgid "Create necessary tables"
+msgstr "Create necessary tables"
+
+msgid "Set administrator password"
+msgstr "Set administrator password"
+
+msgid "Passwords do not match."
+msgstr "Passwords do not match."
+
+msgid "Password is set."
+msgstr "Password is set."
+
+msgid "Import locales"
+msgstr "Import locales"
+
+msgid "Check sound and lock the installation"
+msgstr "Check sound and lock the installation"
+
+msgid "You can login to using <a href=\"{0}\">this</a> link."
+msgstr "You can login to using <a href=\"{0}\">this</a> link."
+
+msgid "Your account is temporarily blocked. Please contact system administrator."
+msgstr "Your account is temporarily blocked. Please contact system administrator."
+
+msgid "Edit locale settings."
+msgstr "Edit locale settings."
+
+msgid "Time locale"
+msgstr "Time locale"
+
+msgid "This value will be passed to PHP's setlocale function to localize words in date/time string."
+msgstr "This value will be passed to PHP's setlocale function to localize words in date/time string."
+
+msgid "Date format (full)"
+msgstr "Date format (full)"
+
+msgid "This value will be used with PHP's strftime to format date with time."
+msgstr "This value will be used with PHP's strftime to format date with time."
+
+msgid "Date format (date)"
+msgstr "Date format (date)"
+
+msgid "This value will be used with PHP's strftime to format date only."
+msgstr "This value will be used with PHP's strftime to format date only."
+
+msgid "Date format (time)"
+msgstr "Date format (time)"
+
+msgid "This value will be used with PHP's strftime to format time only."
+msgstr "This value will be used with PHP's strftime to format time only."
+
+msgid "On this page you can configure locales which are used in the system"
+msgstr "On this page you can configure locales which are used in the system"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "enable"
+msgstr "enable"
+
+msgid "Mail subject"
+msgstr "Mail subject"
+
+msgid "Mail body"
+msgstr "Mail body"
+
+msgid "On this page you can edit mail templates which are used in the system."
+msgstr "On this page you can edit mail templates which are used in the system."
+
+msgid "Machine name"
+msgstr "Machine name"
+
+msgid "Plugin \"{0}\" cannot be enabled."
+msgstr "Plugin \"{0}\" cannot be enabled."
+
+msgid "Plugin \"{0}\" cannot be disabled."
+msgstr "Plugin \"{0}\" cannot be disabled."
+
+msgid "Plugin \"{0}\" cannot be uninstalled."
+msgstr "Plugin \"{0}\" cannot be uninstalled."
+
+msgid "Plugin \"{0}\" cannot be updated."
+msgstr "Plugin \"{0}\" cannot be updated."
+
+msgid "disabled"
+msgstr "disabled"
+
+msgid "working"
+msgstr "working"
+
+msgid "needs update"
+msgstr "needs update"
+
+msgid "not initialized"
+msgstr "not initialized"
+
+msgid "cannot load avatar"
+msgstr "cannot load avatar"
+
+msgid "No geolocation data available. We recommend you to install Mibew:GeoIp and Mibew:OpenStreetMap (or Mibew:GoogleMaps) plugins."
+msgstr "No geolocation data available. We recommend you to install Mibew:GeoIp and Mibew:OpenStreetMap (or Mibew:GoogleMaps) plugins."
+
+msgid "Use to start chat with determined operator"
+msgstr "Use to start chat with determined operator"
+
+msgid "From this page you can generate a variety of usage reports. Last time statistics was calculated {0}. You can calculate it <a href=\"{1}\" target=\"_blank\">manually</a>."
+msgstr "From this page you can generate a variety of usage reports. Last time statistics was calculated {0}. You can calculate it <a href=\"{1}\" target=\"_blank\">manually</a>."
+
+msgid "Chat threads by page"
+msgstr "Chat threads by page"
+
+msgid "Operator pages themes preview"
+msgstr "Operator pages themes preview"
+
+msgid "Invitation themes preview"
+msgstr "Invitation themes preview"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Answer"
+msgstr "Answer"
+
+msgid "Here you can manage plugins. Notice that plugins are configured via the main config file."
+msgstr "Here you can manage plugins. Notice that plugins are configured via the main config file."
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Dependencies"
+msgstr "Dependencies"
+
+msgid "Disable all the dependencies first"
+msgstr "Disable all the dependencies first"
+
+msgid "Enable all the dependencies first"
+msgstr "Enable all the dependencies first"
+
+msgid "uninstall"
+msgstr "uninstall"
+
+msgid "Uninstall all the dependencies first"
+msgstr "Uninstall all the dependencies first"
+
+msgid "update"
+msgstr "update"
+
+msgid "Update all the dependencies first"
+msgstr "Update all the dependencies first"
+
+msgid "Are you sure that you want to leave the chat?"
+msgstr "Tem certeza que deseja sair do chat?"
+
+msgid "Language of the messages left by visitors"
+msgstr "Language of the messages left by visitors"
+
+msgid "Language of the messages that could be left by visitors when operators aren't available"
+msgstr "Language of the messages that could be left by visitors when operators aren't available"
+
+msgid "Cron security key"
+msgstr "Cron security key"
+
+msgid "To run cron use link <a href=\"{0}\">{0}</a>."
+msgstr "To run cron use link <a href=\"{0}\">{0}</a>."
+
+msgid "Select a style for your operator pages"
+msgstr "Select a style for your operator pages"
+
+msgid "A preview for each style is available <a href=\"{0}\">here</a>"
+msgstr "A preview for each style is available <a href=\"{0}\">here</a>"
+
+msgid "Select a style for your invitation"
+msgstr "Select a style for your invitation"
+
+msgid "A preview for invitation style is available <a href=\"{0}\">here</a>"
+msgstr "A preview for invitation style is available <a href=\"{0}\">here</a>"
+
+msgid "<a href=\"{0}\">Regenerate the chat button</a> for options to take effect"
+msgstr "<a href=\"{0}\">Regenerate the chat button</a> for options to take effect"
+
+msgid "Use it to completely isolate groups from each other."
+msgstr "Use it to completely isolate groups from each other."
+
+msgid "Enable \"Tracking and inviting\""
+msgstr "Enable \"Tracking and inviting\""
+
+msgid "Enable tracking of visitors' activity on your site and ability to invite visitors to chat."
+msgstr "Enable tracking of visitors' activity on your site and ability to invite visitors to chat."
+
+msgid "Track operators"
+msgstr "Track operators"
+
+msgid "Allow tracking system to treat operators as normal visitors and add show in the visitors on site list."
+msgstr "Allow tracking system to treat operators as normal visitors and add show in the visitors on site list."
+
+msgid "Enable \"Privacy policy\""
+msgstr "Enable \"Privacy policy\""
+
+msgid "Display a notice with the link to privacy policy on the survey page"
+msgstr "Display a notice with the link to privacy policy on the survey page"
+
+msgid "Privacy policy"
+msgstr "Privacy policy"
+
+msgid "Enter a URL of your privacy policy"
+msgstr "Enter a URL of your privacy policy"
+
+msgid "Check updates automatically"
+msgstr "Check updates automatically"
+
+msgid "System will check updates for the core and plugins automatically using cron"
+msgstr "System will check updates for the core and plugins automatically using cron"
+
+msgid "Connection timeout for messaging window"
+msgstr "Connection timeout for messaging window"
+
+msgid "Set the number of seconds after the last ping to consider the chat window still connected. Default is 30 seconds."
+msgstr "Set the number of seconds after the last ping to consider the chat window still connected. Default is 30 seconds."
+
+msgid "Thread lifetime"
+msgstr "Thread lifetime"
+
+msgid "Specify the lifetime of the thread after closing the dialog box in seconds. Default is 600 seconds. Set 0 for unlimited thread lifetime."
+msgstr "Specify the lifetime of the thread after closing the dialog box in seconds. Default is 600 seconds. Set 0 for unlimited thread lifetime."
+
+msgid "Tracking refresh time"
+msgstr "Tracking refresh time"
+
+msgid "Specify the poll interval in seconds. Default is 10 seconds."
+msgstr "Specify the poll interval in seconds. Default is 10 seconds."
+
+msgid "Limit for tracked visitors list"
+msgstr "Limit for tracked visitors list"
+
+msgid "Specify the number of items to display in tracked visitors list. Default is 20. Set 0 for all visitors (not recommended)."
+msgstr "Specify the number of items to display in tracked visitors list. Default is 20. Set 0 for all visitors (not recommended)."
+
+msgid "Invitation lifetime"
+msgstr "Invitation lifetime"
+
+msgid "Specify the lifetime of invitation in seconds. Default is 60 seconds."
+msgstr "Specify the lifetime of invitation in seconds. Default is 60 seconds."
+
+msgid "Track lifetime"
+msgstr "Track lifetime"
+
+msgid "Specify the lifetime of old visitor's tracks in seconds. Default is 600 seconds."
+msgstr "Specify the lifetime of old visitor's tracks in seconds. Default is 600 seconds."
+
+msgid "Maximum size of uploaded files"
+msgstr "Maximum size of uploaded files"
+
+msgid "Beware that statistics is aggregated up to yesterday."
+msgstr "Beware that statistics is aggregated up to yesterday."
+
+msgid "Missed threads"
+msgstr "Missed threads"
+
+msgid "Average waiting time (in seconds)"
+msgstr "Average waiting time (in seconds)"
+
+msgid "Invitations sent"
+msgstr "Invitations sent"
+
+msgid "Invitations accepted"
+msgstr "Invitations accepted"
+
+msgid "Invitations rejected"
+msgstr "Invitations rejected"
+
+msgid "Invitations ignored"
+msgstr "Invitations ignored"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "View times"
+msgstr "View times"
+
+msgid "This page displays tracked history of visitor's activity on site."
+msgstr "This page displays tracked history of visitor's activity on site."
+
+msgid "Visitor came from"
+msgstr "Visitor came from"
+
+msgid "direct visit"
+msgstr "direct visit"
+
+msgid "Visit time"
+msgstr "Visit time"
+
+msgid "Visited page"
+msgstr "Visited page"
+
+msgid "Source string"
+msgstr "Source string"
+
+msgid "On this page you can download translations."
+msgstr "On this page you can download translations."
+
+msgid "On this page you can upload a custom translation file."
+msgstr "On this page you can upload a custom translation file."
+
+msgid "Translation imported"
+msgstr "Translation imported"
+
+msgid "Override existing translations"
+msgstr "Override existing translations"
+
+msgid "Replaces translated strings in the database with values from the imported file."
+msgstr "Replaces translated strings in the database with values from the imported file."
+
+msgid "Upload translation"
+msgstr "Upload translation"
+
+msgid "Choose the translation file to upload."
+msgstr "Choose the translation file to upload."
+
+msgid "Upload"
+msgstr "Upload"
+
+msgid "Follow the wizard to update your database."
+msgstr "Follow the wizard to update your database."
+
+msgid "Backup the database"
+msgstr "Backup the database"
+
+msgid "Backup the code"
+msgstr "Backup the code"
+
+msgid "Replace all files with ones from the new version"
+msgstr "Replace all files with ones from the new version"
+
+msgid "Update configs file if needed"
+msgstr "Update configs file if needed"
+
+msgid "Run the <a href=\"{0}\">update wizard</a>"
+msgstr "Run the <a href=\"{0}\">update wizard</a>"
+
+msgid "Progress:"
+msgstr "Progress:"
+
+msgid "Update failed."
+msgstr "Update failed."
+
+msgid "You can try to restore database from the backup and run the update wizard again."
+msgstr "You can try to restore database from the backup and run the update wizard again."
+
+msgid "Application successfully updated."
+msgstr "Application successfully updated."
+
+msgid "Go to <a href=\"{0}\">home page</a>"
+msgstr "Go to <a href=\"{0}\">home page</a>"
+
+msgid "All necessary PHP extensions are loaded"
+msgstr "All necessary PHP extensions are loaded"
+
+msgid "Directories permissions are correct"
+msgstr "Directories permissions are correct"
+
+msgid "The tables are alredy in place but outdated. Run the updater to fix it."
+msgstr "The tables are alredy in place but outdated. Run the updater to fix it."
+
+msgid "Tables are created."
+msgstr "Tables are created."
+
+msgid "Tables are pre popluated with necessary info."
+msgstr "Tables are pre popluated with necessary info."
+
+msgid "Cannot set password. Error: {0}"
+msgstr "Cannot set password. Error: {0}"
+
+msgid "Locales are imported."
+msgstr "Locales are imported."
+
+msgid "Locales content is imported."
+msgstr "Locales content is imported."
+
+msgid "Cannot create tables. Error: {0}"
+msgstr "Cannot create tables. Error: {0}"
+
+msgid "Cannot create the first administrator. Error {0}"
+msgstr "Cannot create the first administrator. Error {0}"
+
+msgid "Cannot initialize chat revision sequence. Error {0}"
+msgstr "Cannot initialize chat revision sequence. Error {0}"
+
+msgid "Cannot store database structure version. Error {0}"
+msgstr "Cannot store database structure version. Error {0}"
+
+msgid "Cannot store instance ID. Error {0}"
+msgstr "Cannot store instance ID. Error {0}"
+
+msgid "PHP version is {0}, but Mibew Messenger works with {1} and later versions."
+msgstr "PHP version is {0}, but Mibew Messenger works with {1} and later versions."
+
+msgid "PHP {0} extension is not loaded"
+msgstr "PHP {0} extension is not loaded"
+
+msgid "Cache directory \"{0}\" is not writable."
+msgstr "Cache directory \"{0}\" is not writable."
+
+msgid "Avatars directory \"{0}\" is not writable."
+msgstr "Avatars directory \"{0}\" is not writable."
+
+msgid "Cannot import locales. Error: {0}"
+msgstr "Cannot import locales. Error: {0}"
+
+msgid "Cannot import locales content. Error: {0}"
+msgstr "Cannot import locales content. Error: {0}"
+
+msgid "Visitors on site"
+msgstr "Visitors on site"
+
+msgid "The table below represents a list of visitors ready to chat on your site."
+msgstr "The table below represents a list of visitors ready to chat on your site."
+
+msgid "To invite the visitor to chat click on his/her name in the list."
+msgstr "To invite the visitor to chat click on his/her name in the list."
+
+msgid "Up to date"
+msgstr "Up to date"
+
+msgid "The current version ({0}) is unknown or wrongly formatted"
+msgstr "The current version ({0}) is unknown or wrongly formatted"
+
+msgid "The database is already up to date"
+msgstr "The database is already up to date"
+
+msgid "You can update the system only from {0} and later versions. The current version is {1}"
+msgstr "You can update the system only from {0} and later versions. The current version is {1}"
+
+msgid "Cannot update to {0}"
+msgstr "Cannot update to {0}"
+
+msgid "Updated to {0}"
+msgstr "Updated to {0}"
+
+msgid "Update failed: {0}"
+msgstr "Update failed: {0}"
+
+msgid "Could not retrieve database instance. Error: {0}"
+msgstr "Could not retrieve database instance. Error: {0}"
+
+msgid "Cannot store new version number"
+msgstr "Cannot store new version number"
+
+msgid "Cannot update content: {0}"
+msgstr "Cannot update content: {0}"
+
+msgid "Cannot update tables: {0}"
+msgstr "Cannot update tables: {0}"
+
+msgid "There are no visitors ready to chat on your site at present time"
+msgstr "There are no visitors ready to chat on your site at present time"
+
+msgid "Tracked visitor's path"
+msgstr "Tracked visitor's path"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Invite to chat"
+msgstr "Invite to chat"
+
+msgid "First seen"
+msgstr "First seen"
+
+msgid "Last seen"
+msgstr "Last seen"
+
+msgid "Invited by"
+msgstr "Invited by"
+
+msgid "Invitation time"
+msgstr "Invitation time"
+
+msgid "Invitations / Chats"
+msgstr "Invitations / Chats"
+
+msgid "Name is required."
+msgstr "Name is required."
+
+msgid "Wrong email address."
+msgstr "Wrong email address."
+
+msgid "Wrong thread"
+msgstr "Wrong thread"
+
+msgid "Cannot take over"
+msgstr "Cannot take over"
+
+msgid "Cannot take thread"
+msgstr "Cannot take thread"
+
+msgid "Cannot view threads"
+msgstr "Cannot view threads"
+
+msgid "Translations import"
+msgstr "Translations import"
+
+msgid "Translations export"
+msgstr "Translations export"
+
+msgid "Locales"
+msgstr "Locales"
+
+msgid "Cannot disable all locales."
+msgstr "Cannot disable all locales."
+
+msgid "Locale details"
+msgstr "Locale details"
+
+msgid "No file selected"
+msgstr "No file selected"
+
+msgid "-not found-"
+msgstr "-not found-"
+
+msgid "Cannot remove self."
+msgstr "Cannot remove self."
+
+msgid "Cannot disable self."
+msgstr "Cannot disable self."
+
+msgid "No Password set for the Administrator"
+msgstr "No Password set for the Administrator"
+
+msgid "Code should contain only latin characters, numbers and underscore symbol."
+msgstr "Code should contain only latin characters, numbers and underscore symbol."
+
+msgid "Please choose another email because an operator with that email is already registered in the system."
+msgstr "Please choose another email because an operator with that email is already registered in the system."
+
+msgid "Use only Latin letters(upper and lower case) and numbers in cron key."
+msgstr "Use only Latin letters(upper and lower case) and numbers in cron key."
+
+msgid "\"Thread lifetime\" field should be a number"
+msgstr "\"Thread lifetime\" field should be a number"
