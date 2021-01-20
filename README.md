@@ -18,3 +18,6 @@ Página Inicial (home)
 
 Página de Login
 ![screencapture-localhost-TCC-Site-login-php-2021-01-20-16_56_15](https://user-images.githubusercontent.com/44407870/105228798-c3264880-5b41-11eb-8503-3ad093553474.png)
+
+Área de chat das usuárias
+![screencapture-localhost-TCC-Site-usuarios-chat1-php-2021-01-20-17_03_06](https://user-images.githubusercontent.com/44407870/105228883-e224da80-5b41-11eb-9632-b67ab2306e0f.png)
